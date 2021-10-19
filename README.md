@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **Apollo + React**
 - 🤝 I’m actively looking for **Summer '22 SDE Internships**
 - 💬 Ask me about **React, Angular, Typescript, Python, Go, Games**
+- 🚀 One awesome side project I made: [u/redditspeedbot](https://www.reddit.com/user/redditspeedbot)
 - ⚡ Fun fact: **I love chocolates!**
 
 <h3 align="left">Connect with me:</h3>
