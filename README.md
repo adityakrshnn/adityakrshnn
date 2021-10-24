@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">I am a passionate Software Developer, Technical Writer, and Video Gamer. I dabble mostly with Typescript, React, Python and Go. From initiation to production, I have taken part in every step along this life-cycle and am keen to do better every day.</h3>
+<h3 align="center">I am a passionate Software Developer, Technical Writer, and Video Gamer. I dabble mostly with Typescript, React, Python and Go. From initiation to production, I have taken part in every step along a product's life-cycle and am keen to do better every day.</h3>
 
 - 🔭 I’m currently pursuing my masters in CSE at **Arizona State University**
 - 🌱 I’m currently learning **Apollo + React**
