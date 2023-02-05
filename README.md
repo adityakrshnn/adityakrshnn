@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursuing my masters in CSE at **Arizona State University**
 - 🌱 I’m currently learning **Apollo + React**
-- 🤝 I’m actively looking for **Summer '22 SDE Internships**
+- 🤝 I’m actively looking for **Full-time SDE & FEE roles**
 - 💬 Ask me about **React, Angular, Typescript, Python, Go, Games**
 - 🚀 One awesome side project I made: [u/redditspeedbot](https://www.reddit.com/user/redditspeedbot)
 - ⚡ Fun fact: **I love chocolates!**
