@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate Software Developer, Technical Writer, and Video Gamer. I dabble mostly with Typescript, React, Python and Go. From initiation to production, I have taken part in every step along a product's life-cycle and am keen to do better every day.</h3>
 
 - 🔭 I’m a post-graduate in CSE from **Arizona State University**
-- 🌱 I’m currently learning **Apollo + React**
+- 🌱 I’m currently learning **React Native**
 - 🤝 I’m actively looking for **Full-time SDE & FEE roles**
 - 💬 Ask me about **React, Angular, Typescript, Python, Go, Games**
 - 🚀 One awesome side project I made: [u/redditspeedbot](https://www.reddit.com/user/redditspeedbot)
