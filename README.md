@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **React Native**
 - 🤝 I’m actively looking for **Full-time SDE & FEE roles**
 - 💬 Ask me about **React, React Native, Typescript, Python, Go, Games**
-- 🚀 One awesome side project I made: [u/redditspeedbot](https://www.reddit.com/user/redditspeedbot)
+- 🚀 One awesome project I made: [u/redditspeedbot](https://www.reddit.com/user/redditspeedbot)
 - ⚡ Fun fact: **I love chocolates!**
 
 <h3 align="left">Connect with me:</h3>
